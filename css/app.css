@@ -1,0 +1,14 @@
+body {
+  background-color: #7C7573
+  font-family: 'Nunito', sans-serif;
+  margin: 3rem;
+}
+h1{
+  font-size: 1.3rem;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+}
+.header_nav{
+  text-align:center;
+  margin-bottom: 3rem;
+}
